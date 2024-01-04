@@ -3,8 +3,8 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
+    "file": "bmc-logo.png",
+    "link": "https://www.buymeacoffee.com/Dr_Bewd",
     "text": "Dr_Bewd"
   },
   "text": {
